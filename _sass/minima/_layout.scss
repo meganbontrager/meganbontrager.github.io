@@ -263,10 +263,6 @@
 }
 
 
-.responsive2 {
-  max-width: 50%;
-  height: auto;
-}
 
 
 /* Three image containers (use 25% for four, and 50% for two, etc) */
@@ -281,4 +277,12 @@
  content: "";
  clear: both;
  display: table;
+}
+
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+ .column2 {
+   width: 100%;
+ }
 }
