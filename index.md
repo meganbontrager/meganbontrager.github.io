@@ -12,4 +12,4 @@ I’m currently a **postdoc in the Evolution and Ecology Department at UC Davis*
 
 I did my **PhD research in the Biodiversity Research Centre at the University of British Columbia** in [Amy Angert’s lab](http://angert.botany.ubc.ca/home.html). In my thesis research, I studied how climate, gene flow, and mating system shape the geographic range of an annual wildflower, *Clarkia pulchella*, in the interior of the Pacific Northwest.
 
-I did my undergraduate work at the University of California, Santa Cruz, where I worked in the [Parker](http://parker.eeb.ucsc.edu/) and [Kay](https://kay.eeb.ucsc.edu/) labs.
+I did my **undergraduate work at the University of California, Santa Cruz**, where I worked in the [Parker](http://parker.eeb.ucsc.edu/) and [Kay](https://kay.eeb.ucsc.edu/) labs.
