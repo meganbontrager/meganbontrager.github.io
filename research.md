@@ -20,7 +20,7 @@ Theory offers several competing predictions about the effects of gene flow on ra
 </div>
 <br>
 
-You can check out all our results in the paper.
+You can check out all our results in our [paper](https://doi.org/10.1002/evl3.91).
 
 #### **Does local adaptation strengthen or weaken at range margins?**
 
