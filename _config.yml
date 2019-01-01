@@ -19,7 +19,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   My research focuses on understanding the factors that shape geographic ranges, how populations adapt to their environments, and how species will respond to climate change.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://meganbontrager.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username:
 github_username:  meganbontrager
 
 # Build settings
