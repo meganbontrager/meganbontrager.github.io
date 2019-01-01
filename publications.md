@@ -6,6 +6,7 @@ permalink: /publications/
 
 Please feel free to email me if you have any trouble accessing pdfs.
 
+[My Google Scholar page](https://scholar.google.ca/citations?user=hyyipfcAAAAJ&hl=en).
 
 ### Preprints
 
