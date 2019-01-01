@@ -4,7 +4,10 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-
+<p align="left">
+  <img src="/assets/megan4crop.jpg" height="177" />
+  <img src="/assets/toothpicks.jpg" height="177" />
+</p>
 
 My research focuses on understanding the factors that shape geographic ranges, how populations adapt to their environments, and how species will respond to climate change. I approach these questions using a variety of methods, including large-scale field experiments, meta-analysis, landscape genomics, and climatic niche modelling.
 
