@@ -24,18 +24,31 @@ We found that the best performing populations were those that were most closely 
 
 #### **Does local adaptation strengthen or weaken at range margins?**
 
-A key hypothesis for why evolutionarily stable range limits exist is that populations near range edges are inhibited from becoming well-adapted to their environment due to smaller effective population sizes or swamping gene flow. On the other hand, populations at the edge of a species’ range may occupy unique environments, and therefore if they are locally adapted they may be of greater conservation value than central populations. We compiled a database of transplant studies and used these data along with geographic range information to see whether the magnitude of local advantage varied predictable with proximity to geographic or elevational range edges. Rather than showing a strong spatial signal, our results suggest that climatic marginality is a better predictor of the magnitude of local advantage. We're writing these results up now - stay tuned.
+A key hypothesis for why evolutionarily stable range limits exist is that populations near range edges are inhibited from becoming well-adapted to their environment due to smaller effective population sizes or swamping gene flow. On the other hand, populations at the edge of a species’ range may occupy unique environments, and therefore if they are locally adapted they may be of greater conservation value than central populations. We compiled a database of transplant studies and used these data along with geographic range information to see whether the magnitude of local advantage varied predictable with proximity to geographic or elevational range edges. Rather than showing a strong spatial signal, our results suggest that climatic marginality is a better predictor of the magnitude of local advantage. We're writing these results up now.
 
 <br>
 
 ### **Local adaptation under anomalous climates**
 
-Common garden and transplant experiments are frequently employed to test whether populations are adapted to their environments. As the climate changes, populations will more frequently experience climate that differs from the conditions that they have adapted to. Amy Angert and I are leading an effort to see if there is already a signal of climate change disrupting local adaptation in published studies. We’ve expanded existing databases of transplant studies, and we’re using climate and fitness data to test how signatures of local adaptation have changed over time and in relation to climate anomalies. We’ll be presenting some exciting results at upcoming conferences, so stay tuned.
+#### **Climate anomalies are disrupting local adaptation**
+
+Common garden and transplant experiments are frequently employed to test whether populations are adapted to their environments. As the climate changes, populations will more frequently experience climate that differs from the conditions that they have adapted to. I'm leading an effort to quantify the extent to which climate change is already disrupting local adaptation. In collaboration with Amy Angert (UBC), Chris Muir (U Hawai'i), and others, I’ve built a large database of transplant studies, which we're combining with climate data to test effects of climate anomalies on fitness and local adaptation. Our results show that fitness is strongly affected by climate anomalies, and that this can weaken local adaptation when a foreign population is better matched to experimental conditions. We’ll be submitting this paper soon.
+
+Once this paper is done, I plan to set up and curate an online database where researchers can contribute data from their reciprocal transplant and common garden experiments in a common format with useful covariates and metadata. The entire dataset would be available to all, so that anyone could use it to test hypotheses about drivers of local adaptation.  
+
+<br>
 
 ### **Biotic interactions across geographic ranges**
 
-#### Variation in reproductive assurance across the geographic range
-
 #### Biotic interactions as drivers of local adaptation
 
-In collaboration with Anna Hargreaves (McGill), Rachel Germain (UBC), and Amy Angert (UBC)
+Climate is clearly an important driver of local adaptation, but interactions with other species (such as competitors or herbivores) may also vary spatially, and populations may be locally adapted to their biotic environments. We wanted to test whether the frequency or strength of local adaptation varies depending on whether populations are transplanted with vs. without natural biotic interactions. We used our database of transplant experiments and focused on studies that experimentally manipulated biotic interactions in transplant plots. While biotic interactions frequently affect fitness, we found no consistent effect on local adaptation at the geographic scale of our data. One possible explanation is that biotic interactions are too spatially or temporally variable to drive local adaptation at large geographic scales. This manuscript is being spearheaded by Anna Hargreaves (McGill).
+
+#### Variation in reproduction and reproductive assurance across the geographic range
+
+Climatic gradients underlying a species' range may create gradients in pollinator availability or flowering season length. These factors can cause variation in selection for reproductive assurance across the range. I've used several approaches to investigate the links between climate, range position, and mating system in *Clarkia pulchella*. First, I measured traits on a large set of herbarium specimens and related these traits to climate and isolation (in [this AJB paper](https://doi.org/10.3732/ajb.1500091)), showing that climate may be an important driver of mating system and reproduction, but that important climatic gradients are sometimes heterogeneous across the range. In a follow-up [experiment](https://doi.org/10.1101/372375), I set up pollinator exclusion plots across the range of *C. pulchella* and evaluated whether climate drives variation in reproductive assurance and overall reproduction. We found geographic variation in reproductive assurance, but it was not well-explained by the climate variables that we considered. 
+
+
+<!--How do geography and climate contribute to shaping population genetic structure of Clarkia pulchella?-->
+
+<!--The role of gene flow in shaping geographic ranges ultimately depends on how the movement of individuals or gametes is structured across geographic distance and environmental heterogeneity. Using GBS data from 32 populations across the northern half of the range of C. pulchella, I'm examining how geographic distance and environmental differences between populations shape genetic structure. Initial results show that there is a signal of isolation by distance, but with some interesting heterogeneity. Stay tuned!-->
