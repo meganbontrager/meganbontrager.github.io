@@ -10,14 +10,17 @@ Please feel free to email me if you have any trouble accessing pdfs.
 
 ### Preprints
 
-**M. Bontrager** and A. L. Angert (2018). Genetic differentiation is determined by geographic distance in *Clarkia pulchella*. bioRxiv 374454. [doi](https://doi.org/10.1101/374454) [github](https://github.com/meganbontrager/clarkia-pulchella-popgen)
+A. L. Hargreaves, R. M. Germain, **M. Bontrager**, J. Persi, and A. L. Angert (2019). Biotic interactions affect fitness across latitudes, but only drive local adaptation in the tropics.
+bioRxiv 575498. [doi](https://doi.org/10.1101/575498)
 
-**M. Bontrager**, C. D. Muir, and A. L. Angert (2018). Geographic and climatic drivers of reproductive assurance in *Clarkia pulchella*. bioRxiv 372375. [doi](https://doi.org/10.1101/372375) [github](https://github.com/meganbontrager/clarkia-reproductive-assurance)
+**M. Bontrager** and A. L. Angert (2018). Genetic differentiation is determined by geographic distance in *Clarkia pulchella*. bioRxiv 374454. [doi](https://doi.org/10.1101/374454) [github](https://github.com/meganbontrager/clarkia-pulchella-popgen)
 
 
 ### Publications
 
-**M. Bontrager** and A. L. Angert (2018). Gene flow improves fitness at a range edge under climate change. Evolution Letters. [doi](https://doi.org/10.1002/evl3.91) [github](https://github.com/meganbontrager/clarkia-pulchella-transplant) [talk](https://www.youtube.com/watch?v=HqVgQzIJLyA) [dryad](https://datadryad.org/resource/doi:10.5061/dryad.1b90t69) [bioRxiv](https://www.biorxiv.org/content/early/2018/10/31/399469)
+**M. Bontrager**, C. D. Muir, and A. L. Angert (2019). Geographic variation in reproductive assurance of *Clarkia pulchella*. Oecologia. [doi](https://doi.org/10.1007/s00442-019-04390-4) [bioRxiv](https://doi.org/10.1101/372375) [github](https://github.com/meganbontrager/clarkia-reproductive-assurance) [zenodo](https://doi.org/10.5281/zenodo.2597693)
+
+**M. Bontrager** and A. L. Angert (2018). Gene flow improves fitness at a range edge under climate change. Evolution Letters 3: 55-68. [doi](https://doi.org/10.1002/evl3.91) [github](https://github.com/meganbontrager/clarkia-pulchella-transplant) [talk](https://www.youtube.com/watch?v=HqVgQzIJLyA) [dryad](https://datadryad.org/resource/doi:10.5061/dryad.1b90t69) [bioRxiv](https://www.biorxiv.org/content/early/2018/10/31/399469)
 
 D. E. Gamble, **M. Bontrager**, and A. L. Angert (2016). Floral trait variation and links to climate in the mixed-mating annual *Clarkia pulchella*. Botany, 96(7):425–435. [doi](https://doi.org/10.1139/cjb-2017-0234)
 
