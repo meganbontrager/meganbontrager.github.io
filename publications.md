@@ -4,19 +4,22 @@ title: Publications
 permalink: /publications/
 ---
 
-Please feel free to email me if you have any trouble accessing pdfs.
+Please feel free to email me if you have any trouble accessing articles.
 
 [My Google Scholar page](https://scholar.google.ca/citations?user=hyyipfcAAAAJ&hl=en).
 
-### Preprints
+### Preprints and in review
 
-A. L. Hargreaves, R. M. Germain, **M. Bontrager**, J. Persi, and A. L. Angert (2019). Biotic interactions affect fitness across latitudes, but only drive local adaptation in the tropics.
-bioRxiv 575498. [doi](https://doi.org/10.1101/575498)
+A. L. Angert, **M. Bontrager**, and Jon Agren. What do we really know about adaptation at range edges? In review for the Annual Review of Ecology, Evolution, and Systematics.
 
 **M. Bontrager** and A. L. Angert (2018). Genetic differentiation is determined by geographic distance in *Clarkia pulchella*. bioRxiv 374454. [doi](https://doi.org/10.1101/374454) [github](https://github.com/meganbontrager/clarkia-pulchella-popgen)
 
 
 ### Publications
+
+[In press] J. R. Gremer, A. Chiono, E. Suglia, **M. Bontrager**, L. Okafor, and J. Schmitt (2020). Variation in the seasonal germination niche across an elevational gradient: the role of germination cueing in current and future climates. American Journal of Botany.
+
+A. L. Hargreaves, R. M. Germain, **M. Bontrager**, J. Persi, and A. L. Angert (2020). Local adaptation to biotic interactions: a meta-analysis across latitudes. The American Naturalist, 195(3). [doi](https://www.journals.uchicago.edu/doi/10.1086/707323)
 
 **M. Bontrager**, C. D. Muir, and A. L. Angert (2019). Geographic variation in reproductive assurance of *Clarkia pulchella*. Oecologia. [doi](https://doi.org/10.1007/s00442-019-04390-4) [bioRxiv](https://doi.org/10.1101/372375) [github](https://github.com/meganbontrager/clarkia-reproductive-assurance) [zenodo](https://doi.org/10.5281/zenodo.2597693)
 
