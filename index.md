@@ -5,6 +5,7 @@
 layout: home
 ---
 
+
 <div class="row">
  <div class="column4">
    <img src="/assets/megan4crop.jpg" style="width:100%">
@@ -16,14 +17,33 @@ layout: home
 <br>
 
 
-I study how ecology and evolution interact to shape species’ geographic ranges. I conduct large-scale, rigorous field and greenhouse experiments, quantitative syntheses of the the literature, and analyses using natural history collections.
+<p align="justify" style="font-size:130%;">
+My research focuses on how ecology and evolution interact to shape species’ geographic ranges. I conduct large-scale, rigorous field and greenhouse experiments, quantitative syntheses of the the literature, and analyses using natural history collections.
+</p>
 
-I’m currently a **postdoc in the Evolution and Ecology Department at UC Davis**, where I’m working with [Sharon Strauss](https://sharonstrauss.wordpress.com/), [Annie Schmitt](https://plantgxe.ucdavis.edu/), [Jenny Gremer](https://gremerlab.wordpress.com/), and [Julin Maloof](http://malooflab.phytonetworks.org/). My postdoctoral work focuses on:
+<br>
 
-- **How have life-history cues diversified across California's jewelflowers (*Streptanthus*)?** We are investigating how germination cues differ among species and populations, and we are gathering reproductive data from herbarium collections to examine how flowering phenology responds to interannual variation in climate.
+______
 
-- **How have populations of *Streptanthus tortuosus* diverged across a wide elevational range?** We are quantifying vernalization requirements and estimating their heritability, as well as examining how differences in gene expression in response to vernalization influence the phenotypes we see.
+<br>
 
-I did my **PhD research in the Biodiversity Research Centre at the University of British Columbia** with [Amy Angert](http://angert.botany.ubc.ca/home.html). In my thesis research, I studied how climate, gene flow, and mating system shape the geographic range of an annual wildflower, *Clarkia pulchella*, in the interior of the Pacific Northwest.
+I’ve just started as a postdoc in the **Ecology and Evolutionary Biology Department at the University of Toronto**, where I'll be hanging out with the [Stinchcombe Lab](https://stinchcombe.eeb.utoronto.ca/). In this position I'll be starting new projects investigating the drivers of local adaptation and the evolutionary forces shaping geographic ranges.
 
+<br>
+I'm also continuing collaborations with my previous postdoc team in the **Evolution and Ecology Department at UC Davis**, where I worked with [Sharon Strauss](https://sharonstrauss.wordpress.com/), [Annie Schmitt](https://plantgxe.ucdavis.edu/), [Jenny Gremer](https://gremerlab.wordpress.com/), and [Julin Maloof](http://malooflab.phytonetworks.org/). This work focuses on:
+
+- How have life-history cues diversified across California's jewelflowers (*Streptanthus*)?
+- How have populations of *Streptanthus tortuosus* diverged across a wide elevational range?
+
+
+<br>
+I did my **PhD research in the Biodiversity Research Centre at the University of British Columbia** with [Amy Angert](http://angert.botany.ubc.ca/home.html). This work included field experiments, population genetics, herbarium studies, and quantitative syntheses of the literature, investigating:
+
+- How do contemporary climate change and altered biotic interactions affect local adaptation?
+- How does gene flow affect range edge populations of *Clarkia pulchella*?
+- How do local adaptation and population quality vary across geographic ranges?
+- How have climate and geographic range position shaped the mating system of *Clarkia pulchella*?
+
+
+<br>
 I did my **undergraduate work at the UC Santa Cruz**, where I worked in the [Parker](http://parker.eeb.ucsc.edu/) and [Kay](https://kay.eeb.ucsc.edu/) labs.

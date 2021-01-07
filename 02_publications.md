@@ -10,14 +10,17 @@ Please feel free to email me if you have any trouble accessing articles.
 
 ### Preprints and in press
 
+**M. Bontrager**, C. D. Muir, C. Mahony, D. E. Gamble, R. M. Germain, A. L. Hargreaves, E. L. Kleynhans, K. A. Thompson, and A. L. Angert. Climate warming weakens local adaptation. bioRxiv 2020.11.01.364349. [doi](https://doi.org/10.1101/2020.11.01.364349)
+
 **M. Bontrager**, T. Usui, J. A. Lee-Yaw, D. N. Anstett, H. A. Branch, A. L. Hargreaves, C. D. Muir, and A. L. Angert. Expansion dynamics and marginal climates drive adaptation across geographic ranges. bioRxiv 2020.08.22.262915. [doi](https://doi.org/10.1101/2020.08.22.262915)
 
 **M. Bontrager** and A. L. Angert. Genetic differentiation is determined by geographic distance in *Clarkia pulchella*. bioRxiv 374454. [doi](https://doi.org/10.1101/374454) [github](https://github.com/meganbontrager/clarkia-pulchella-popgen)
 
-A. L. Angert, **M. Bontrager**, and Jon Agren. What do we really know about adaptation at range edges? In press. Annual Review of Ecology, Evolution, and Systematics.
 
 
 ### Publications
+
+A. L. Angert, **M. Bontrager**, and Jon Agren. What do we really know about adaptation at range edges? In press. Annual Review of Ecology, Evolution, and Systematics 51: 341-361. [doi](https://doi.org/10.1146/annurev-ecolsys-012120-091002)
 
 J. R. Gremer, A. Chiono, E. Suglia, **M. Bontrager**, L. Okafor, and J. Schmitt (2020). Variation in the seasonal germination niche across an elevational gradient: the role of germination cueing in current and future climates. American Journal of Botany 107: 350-363. [doi](https://doi.org/10.1002/ajb2.1425)
 
