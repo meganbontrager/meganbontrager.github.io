@@ -30,7 +30,7 @@ ______
 I’ve just started as a postdoc in the **Ecology and Evolutionary Biology Department at the University of Toronto**, where I'll be hanging out with the [Stinchcombe Lab](https://stinchcombe.eeb.utoronto.ca/). In this position I'll be starting new projects investigating the drivers of local adaptation and the evolutionary forces shaping geographic ranges.
 
 <br>
-I'm also continuing collaborations with my previous postdoc team in the **Evolution and Ecology Department at UC Davis**, where I worked with [Sharon Strauss](https://sharonstrauss.wordpress.com/), [Annie Schmitt](https://plantgxe.ucdavis.edu/), [Jenny Gremer](https://gremerlab.wordpress.com/), and [Julin Maloof](http://malooflab.phytonetworks.org/). This work focuses on:
+I'm also continuing collaborations with my previous postdoc team in the **Evolution and Ecology Department at UC Davis**, where I worked with [Jenny Gremer](https://gremerlab.wordpress.com/), [Julin Maloof](http://malooflab.phytonetworks.org/), [Annie Schmitt](https://plantgxe.ucdavis.edu/), and [Sharon Strauss](https://sharonstrauss.wordpress.com/). This work focuses on:
 
 - How have life-history cues diversified across California's jewelflowers (*Streptanthus*)?
 - How have populations of *Streptanthus tortuosus* diverged across a wide elevational range?
