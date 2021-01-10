@@ -6,9 +6,9 @@ permalink: /research/
 
 
 
-### **Limits to adaptation at range edges**
+## **Limits to adaptation at range edges**
 
-Some of my work focuses on understanding the limits to adaptation at range edges. In [Lee-Yaw et al. 2016 (Ecology Letters)](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.12604), we found that fitness declines when individuals are moved beyond range edges, indicating that these edges often coincide with niche limits. That raises the question of how ecological and evolutionary forces are interacting to prevent adaptation at range edges (reviewed in [Angert, Bontrager, and Ågren 2020, Annual Review of Ecology, Evolution, and Systematics](https://www.annualreviews.org/doi/abs/10.1146/annurev-ecolsys-012120-091002)).
+Some of my work focuses on understanding the limits to adaptation at range edges. In a synthesis of transplant experiments beyond range edges ([Lee-Yaw et al. 2016 (Ecology Letters)](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.12604)), we found that fitness declines when individuals are moved beyond range edges, indicating that these edges often coincide with niche limits. That raises the question of how ecological and evolutionary forces are interacting to prevent adaptation at range edges (reviewed in [Angert, Bontrager, and Ågren 2020, Annual Review of Ecology, Evolution, and Systematics](https://www.annualreviews.org/doi/abs/10.1146/annurev-ecolsys-012120-091002)).
 
 
 #### **Does gene flow help or hurt range edge populations?**
@@ -40,7 +40,7 @@ A key hypothesis for why evolutionarily stable range limits exist is that popula
 <br>
 <br>
 
-### **Environmental factors driving local adaptation**
+## **Environmental factors driving local adaptation**
 
 Local adaptation is common in nature, but we are still not able to generalize about its most important environmental drivers. Understanding the relative importance of potential drivers is critical as so many components of the environment undergo rapid change.
 
@@ -69,7 +69,7 @@ Climate is clearly an important driver of local adaptation, but interactions wit
 <br>
 <br>
 
-### **Responses of populations and species to changing environments**
+## **Responses of populations and species to changing environments**
 
 In collaboration with Jenny Gremer, Julin Maloof, Annie Schmitt, and Sharon Strauss (all at UC Davis), I am examining whether responses to climatic variation are evolutionarily constrained in a clade of native California mustards (the jewelflowers, *Streptanthus* s.l.). First, we are characterizing the germination niche, including chilling, hydrothermal, and afterripening requirements for germination (the afterripening part of this experiment was tackled by a stellar UC Davis undergrad, Adrianna Ng).
 
@@ -119,9 +119,9 @@ We are quantifying vernalization requirements and estimating their heritability,
 
 We are investigating how germination cues differ among species and populations, and -->
 
-### **Variation in plant mating systems across geographic ranges**
+## **Variation in plant mating systems across geographic ranges**
 
-Climatic gradients underlying a species' range may create gradients in pollinator availability or flowering season length. These factors can cause variation in selection for reproductive assurance across the range. I've used several approaches to investigate the links between climate, range position, and mating system in *Clarkia pulchella*. First, I measured traits on a large set of herbarium specimens and related these traits to climate and isolation (in [Bontrager and Angert 2016, American Journal of Botany](https://doi.org/10.3732/ajb.1500091)), showing that climate may be an important driver of mating system and reproduction, but that important climatic gradients are sometimes heterogeneous across the range. In a follow-up experiment ([Bontrager and Angert 2019, Oecologia](https://doi.org/10.1101/372375)), I set up pollinator exclusion plots in natural populations across the range of *C. pulchella* and evaluated whether climate drives variation in reproductive assurance and overall reproduction. We found geographic variation in reproductive assurance, but it could not be explained by the climate variables that we considered.
+Climatic gradients underlying a species' range may create gradients in pollinator availability or flowering season length. These factors can cause variation in selection for reproductive assurance across the range. I've used several approaches to investigate the links between climate, range position, and mating system in *Clarkia pulchella*. First, I measured traits on a large set of herbarium specimens and related these traits to climate and isolation (in [Bontrager and Angert 2016, American Journal of Botany](https://doi.org/10.3732/ajb.1500091)), showing that climate may be an important driver of mating system and reproduction, but that important climatic gradients are sometimes heterogeneous across the range. In a follow-up experiment ([Bontrager and Angert 2019, Oecologia](https://doi.org/10.1101/372375)), I set up pollinator exclusion plots in natural populations across the range of *C. pulchella* and evaluated whether climate drives variation in reproductive assurance and overall reproduction. We found geographic variation in reproductive assurance, but it could not be explained by the climate variables that we considered. Devin Gamble (a fantastic UBC undergrad, now grad student at UC Santa Barbara) followed up this work by measuring plastic responses of mating system traits to drought in the growth chambers ([Gamble, Bontrager, and Angert 2016, Botany](https://doi.org/10.1139/cjb-2017-0234)).
 
 <div class="row">
  <div class="column">
