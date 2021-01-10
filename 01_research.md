@@ -8,12 +8,12 @@ permalink: /research/
 
 ### **Limits to adaptation at range edges**
 
-Some of my previous and ongoing work focuses on understanding the limits to adaptation at range edges. In [Lee-Yaw et al. 2016 (Ecology Letters)](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.12604), we found that fitness declines when individuals are moved beyond range edges, indicating that these edges might coincide with species niche limits. That raises the question of how ecological and evolutionary forces are interacting to prevent adaptation at range edges (reviewed in [Angert, Bontrager, and Ågren 2020, Annual Review of Ecology, Evolution, and Systematics](https://www.annualreviews.org/doi/abs/10.1146/annurev-ecolsys-012120-091002)).
+Some of my work focuses on understanding the limits to adaptation at range edges. In [Lee-Yaw et al. 2016 (Ecology Letters)](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.12604), we found that fitness declines when individuals are moved beyond range edges, indicating that these edges often coincide with niche limits. That raises the question of how ecological and evolutionary forces are interacting to prevent adaptation at range edges (reviewed in [Angert, Bontrager, and Ågren 2020, Annual Review of Ecology, Evolution, and Systematics](https://www.annualreviews.org/doi/abs/10.1146/annurev-ecolsys-012120-091002)).
 
 
-#### **Testing effects of gene flow on range edge populations**
+#### **Does gene flow help or hurt range edge populations?**
 
-Theory offers several competing predictions about the effects of gene flow on range edge populations. One possibility is that gene flow from populations in different environments may disrupt local adaptation in edge populations. An alternative possibility is that edge populations may lack the genetic variation necessary for them to adapt to their local environment, in which case, gene flow may provide beneficial genetic variation. To examine how gene flow from a variety of climatic and geographic distances affects northern edge populations of *Clarkia pulchella*, I simulated gene flow between populations and planted the resulting seeds (30,000 of them!) into common gardens at the northern range edge. We found that the best performing populations were those that were most closely matched to the warm weather during the experiment. Gene flow from these warm populations improved performance of the local populations. The effects of gene flow were also positively correlated with the genetic differentiation of the parental populations. You can check out all our results in [Bontrager and Angert 2019, Evolution Letters](https://onlinelibrary.wiley.com/doi/full/10.1002/evl3.91).
+Theory offers several competing predictions about the effects of gene flow on range edge populations. One possibility is that gene flow from populations in different environments may disrupt local adaptation in edge populations. An alternative possibility is that edge populations may lack the genetic variation necessary for them to adapt to their local environment, in which case, gene flow may provide beneficial genetic variation. To examine how gene flow from a variety of climatic and geographic distances affects northern edge populations of *Clarkia pulchella*, I simulated gene flow between populations and planted the resulting seeds (32,755 of them!) into common gardens at the northern range edge. We found that the best performing populations were those that were most closely matched to the warm weather during the experiment. Gene flow from these warm populations improved performance of the local populations. The effects of gene flow were also positively correlated with the genetic differentiation of the parental populations. You can check out all our results in [Bontrager and Angert 2019, Evolution Letters](https://onlinelibrary.wiley.com/doi/full/10.1002/evl3.91).
 
 <div class="row">
  <div class="column2">
@@ -38,12 +38,13 @@ A key hypothesis for why evolutionarily stable range limits exist is that popula
   </div>
 <br>
 <br>
+<br>
 
 ### **Environmental factors driving local adaptation**
 
 Local adaptation is common in nature, but we are still not able to generalize about its most important environmental drivers. Understanding the relative importance of potential drivers is critical as so many components of the environment undergo rapid change.
 
-#### **Climate anomalies disrupt local adaptation**
+#### **How does climate change affect local adaptation?**
 
 Common garden and transplant experiments are frequently employed to test whether populations are adapted to their environments. As the climate changes, populations will more frequently experience climate that differs from the conditions that they have adapted to. I'm leading an effort to quantify the extent to which populations are adapted to local climate, and how much climate change is already disrupting local adaptation (with key collaborators Amy Angert at UBC and Chris Muir at U Hawai'i). We’ve built a large database of transplant studies, which we're combining with climate data to test effects of climate anomalies on fitness and local adaptation. Our results show that fitness is strongly affected by temperature anomalies, and that this can overturn local adaptation. See the full results in our preprint: [Bontrager et al., bioRxiv](https://www.biorxiv.org/content/10.1101/2020.11.01.364349v1.full.pdf+html).
 
@@ -65,16 +66,48 @@ Climate is clearly an important driver of local adaptation, but interactions wit
  </div>
 </div>
 <br>
+<br>
+<br>
 
-<!-- ### **Responses of populations and species to changing environments**
+### **Responses of populations and species to changing environments**
 
-climate anomalies
+In collaboration with Jenny Gremer, Julin Maloof, Annie Schmitt, and Sharon Strauss (all at UC Davis), I am examining whether responses to climatic variation are evolutionarily constrained in a clade of native California mustards (the jewelflowers, *Streptanthus* s.l.). First, we are characterizing the germination niche, including chilling, hydrothermal, and afterripening requirements for germination (the afterripening part of this experiment was tackled by a stellar UC Davis undergrad, Adrianna Ng).
 
-dimensions germination
+<div class="row">
+ <div class="column2">
+   <img src="/assets/hispidus.jpg" style="width:100%">
+   <p><i>Streptanthus hispidus</i>, an adorable member of the clade.</p>
+ </div>
+ <div class="column2">
+    <img src="/assets/barbatus_babies.jpg" style="width:100%">
+    <p><i>Streptanthus barbatus</i>, a high-elevation species.</p>
+  </div>
+</div>
+<div class="row">
+ <div class="column">
+ <img src="/assets/germ_tray.jpg" style="width:100%">
+ <p>A dark-germination test tray.</p>
+ </div>
+</div>
+<br>
 
-dimensions herbarium specimens
+Next, we are using herbarium specimens to parameterize effects of inter-annual weather variation on phenology and fitness across the clade. We are now examining whether these relationships are consistent or divergent across species.
 
-### **Life history variation along an elevational gradient**
+<div class="row">
+ <div class="column2">
+   <img src="/assets/herb1.jpg" style="width:100%">
+ </div>
+ <div class="column2">
+      <img src="/assets/herb2.jpg" style="width:100%">
+ </div>
+</div>
+Herbarium specimens of *Streptanthus tortuosus* (left) and *Streptanthus insignis* (right) with reproductive structures counted and categorized.
+<br>
+<br>
+<br>
+
+
+<!-- ### **Life history variation along an elevational gradient**
 
 vernalization growout
 
@@ -82,29 +115,30 @@ vernalization RNAseq
 
 germination experiment
 
+We are quantifying vernalization requirements and estimating their heritability, as well as examining how differences in gene expression in response to vernalization influence the phenotypes we see.
+
+We are investigating how germination cues differ among species and populations, and -->
 
 ### **Variation in plant mating systems across geographic ranges**
 
-clarkia herbarium paper
+Climatic gradients underlying a species' range may create gradients in pollinator availability or flowering season length. These factors can cause variation in selection for reproductive assurance across the range. I've used several approaches to investigate the links between climate, range position, and mating system in *Clarkia pulchella*. First, I measured traits on a large set of herbarium specimens and related these traits to climate and isolation (in [Bontrager and Angert 2016, American Journal of Botany](https://doi.org/10.3732/ajb.1500091)), showing that climate may be an important driver of mating system and reproduction, but that important climatic gradients are sometimes heterogeneous across the range. In a follow-up experiment ([Bontrager and Angert 2019, Oecologia](https://doi.org/10.1101/372375)), I set up pollinator exclusion plots in natural populations across the range of *C. pulchella* and evaluated whether climate drives variation in reproductive assurance and overall reproduction. We found geographic variation in reproductive assurance, but it could not be explained by the climate variables that we considered.
 
-devin's paper
+<div class="row">
+ <div class="column">
+   <img src="/assets/lesliegulch.jpg" style="width:100%">
+ </div>
+</div>
+Pollinator exclusion site at Leslie Gulch, Oregon, at the southern edge of *Clarkia pulchella*'s range
+<br>
+<div class="row">
+ <div class="column2">
+   <img src="/assets/flower_measurement.jpg" style="width:100%">
+   <p>Measuring floral traits on a plant from Leslie Gulch. </p>
+ </div>
+ <div class="column2">
+      <img src="/assets/bombus_visit.jpg" style="width:100%">
+      <p>An outsized visitor. </p>
+ </div>
+</div>
 
-oecologia paper
-
-
-
-
-We are quantifying vernalization requirements and estimating their heritability, as well as examining how differences in gene expression in response to vernalization influence the phenotypes we see.
-
-We are investigating how germination cues differ among species and populations, and we are gathering reproductive data from herbarium collections to examine how flowering phenology responds to interannual variation in climate.
-
-
-
-
-
-
-
-
-
-
-Climatic gradients underlying a species' range may create gradients in pollinator availability or flowering season length. These factors can cause variation in selection for reproductive assurance across the range. I've used several approaches to investigate the links between climate, range position, and mating system in *Clarkia pulchella*. First, I measured traits on a large set of herbarium specimens and related these traits to climate and isolation (in [this AJB paper](https://doi.org/10.3732/ajb.1500091)), showing that climate may be an important driver of mating system and reproduction, but that important climatic gradients are sometimes heterogeneous across the range. In a follow-up [experiment](https://doi.org/10.1101/372375), I set up pollinator exclusion plots across the range of *C. pulchella* and evaluated whether climate drives variation in reproductive assurance and overall reproduction. We found geographic variation in reproductive assurance, but it was not well-explained by the climate variables that we considered. -->
+<br>
