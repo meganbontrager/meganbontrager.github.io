@@ -2,8 +2,6 @@
 layout: page
 title: Research
 permalink: /research/
-toc: true
-toc_label: "My Table of Contents"
 ---
 
 
