@@ -4,6 +4,9 @@ title: Publications
 permalink: /publications/
 ---
 
+
+---
+
 Please feel free to email me if you have any trouble accessing articles.
 
 [My Google Scholar page](https://scholar.google.ca/citations?user=hyyipfcAAAAJ&hl=en).
