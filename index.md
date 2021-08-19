@@ -27,9 +27,14 @@ ______
 
 <br>
 
-I’m currently a postdoc in the **Ecology and Evolutionary Biology Department at the University of Toronto**, where I'll be hanging out with the [Stinchcombe Lab](https://stinchcombe.eeb.utoronto.ca/). In July 2022, I'll be starting as an assistant professor here. Research in my lab will focus on investigating the drivers of local adaptation and the evolutionary forces shaping geographic ranges. I am recruiting graduate students for September 2022. More information will be posted here soon, but in the meantime, if you are interested in chatting about joining the lab, please get in touch with me via email! I am also very happy to hear from undergraduates and prospective postdocs.
+**In July 2022, I'll be starting as an assistant professor in the Ecology and Evolutionary Biology Department at the University of Toronto**. Research in my lab will focus on investigating the drivers of local adaptation and the evolutionary forces shaping geographic ranges. I am recruiting graduate students for September 2022. More information will be posted here soon, but in the meantime, if you are interested in chatting about graduate work in the lab, please get in touch with me via email! I am also very happy to hear from undergraduates and prospective postdocs.
 
 <br>
+
+I’m currently a postdoc in the **Ecology and Evolutionary Biology Department at the University of Toronto**, where I'm hanging out with the [Stinchcombe Lab](https://stinchcombe.eeb.utoronto.ca/).
+
+<br>
+
 I'm also continuing collaborations with my previous postdoc team in the **Evolution and Ecology Department at UC Davis**, where I worked with [Jenny Gremer](https://gremerlab.wordpress.com/), [Julin Maloof](http://malooflab.phytonetworks.org/), [Annie Schmitt](https://plantgxe.ucdavis.edu/), and [Sharon Strauss](https://sharonstrauss.wordpress.com/). This work focuses on:
 
 - How have life-history cues diversified across California's jewelflowers (*Streptanthus*)?
