@@ -11,7 +11,7 @@ The Bontrager lab will be starting up in July 2022 in the Department of Evolutio
 Work in the lab will broadly focus on drivers of local adaptation and geographic range limits, in western North American systems as well as systems local to Toronto. The lab will be set up for field, greenhouse, and growth chamber experiments. These approaches can be complemented with data synthesis and genomic tools (ideally in collaboration with the strong plant genomics groups here at U of T).
 <br>
 
-Our group will value diversity and community. I will work to actively create an environment where everyone feels supported to be curious, learn new skills, and do projects that they are excited about. I am very happy to hear from students and researchers who are members of groups that have not historically been supported/included in academic science. I am excited to work with people who are excited about ecology and evolution, regardless of their race, gender identity or expression, sexual orientation, age, disability status, religion, ethnicity, place of origin, immigration status, family status, or socioeconomic status.
+Our group will value diversity and community. I will work to actively create an environment where everyone feels supported to be curious, learn new skills, and do projects that they are excited about. I am very happy to hear from students and researchers who are members of groups that have not historically been supported/included in academic science. I am excited to work with people who are excited about ecology and evolution, of any race, gender identity or expression, sexual orientation, age, disability status, religion, ethnicity, place of origin, immigration status, family status, or socioeconomic status.
 <br>
 
 
