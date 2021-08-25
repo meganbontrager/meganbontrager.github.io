@@ -15,13 +15,14 @@ Please feel free to email me if you have any trouble accessing articles.
 
 **M. Bontrager**, C. D. Muir, C. Mahony, D. E. Gamble, R. M. Germain, A. L. Hargreaves, E. L. Kleynhans, K. A. Thompson, and A. L. Angert. Climate warming weakens local adaptation. bioRxiv 2020.11.01.364349. [doi](https://doi.org/10.1101/2020.11.01.364349)
 
-**M. Bontrager**, T. Usui, J. A. Lee-Yaw, D. N. Anstett, H. A. Branch, A. L. Hargreaves, C. D. Muir, and A. L. Angert. Expansion dynamics and marginal climates drive adaptation across geographic ranges. bioRxiv 2020.08.22.262915. [doi](https://doi.org/10.1101/2020.08.22.262915)
-
 **M. Bontrager** and A. L. Angert. Genetic differentiation is determined by geographic distance in *Clarkia pulchella*. bioRxiv 374454. [doi](https://doi.org/10.1101/374454) [github](https://github.com/meganbontrager/clarkia-pulchella-popgen)
 
 
-
 ### Publications
+
+D. S. Srivastava, L. Coristine, A. L. Angert, **M. Bontrager**, S. L. Amundrud, J. L. Williams, A. C. Y. Yeung, D.R. de Zwaan, P. L. Thompson, S. N. Aitken, et al. Wildcards in climate change biology. Ecological Monographs. [doi](https://doi.org/10.1002/ecm.1471)
+
+**M. Bontrager**, T. Usui, J. A. Lee-Yaw, D. N. Anstett, H. A. Branch, A. L. Hargreaves, C. D. Muir, and A. L. Angert. Adaptation across geographic ranges is consistent with strong selection in marginal climates and legacies of range expansion. Evolution 75: 1316-1333. [doi](https://doi.org/10.1111/evo.14231) [dryad](https://datadryad.org/stash/dataset/doi:10.5061/dryad.pnvx0k6mc) [bioRxiv](https://doi.org/10.1101/2020.08.22.262915)
 
 A. L. Angert, **M. Bontrager**, and Jon Agren. What do we really know about adaptation at range edges? In press. Annual Review of Ecology, Evolution, and Systematics 51: 341-361. [doi](https://doi.org/10.1146/annurev-ecolsys-012120-091002)
 
