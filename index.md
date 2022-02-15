@@ -31,4 +31,4 @@ ______
 
 <br>
 
-**I am recruiting graduate students for September 2022.** If you are interested in joining my lab, please check out the information on the [join](https://meganbontrager.github.io/join/) page and get in touch with me via email! I am also very happy to hear from prospective undergraduates and postdocs.
+If you are interested in joining my lab, please check out the information on the [join](https://meganbontrager.github.io/join/) page and get in touch with me via email!
