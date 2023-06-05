@@ -4,7 +4,7 @@ title: People
 permalink: /people/
 ---
 
-## Megan Bontrager
+### Megan Bontrager
 
 
  <div class="image">
@@ -43,9 +43,21 @@ Katie (they/she) is a PhD student co-supervised by John Stinchcombe and is a rec
 
 ## Undergrads
 
-Jo Fletcher (work-study '22-23)
+
+Heather Chong (EEB 498 and work-study summer '23)
+
+Maura McGregor (CGCS USRA summer '23--Stinchcombe lab) 
+
+Noah Hake (NSERC USRA summer '23)
+
+Stephanie Leung (work-study summer '23)
+
+Tara McGruder (work-study summer '23)
 
 Ellie Hector (work-study '22-23)
+
+Jo Fletcher (work-study '22-23)
+
 
 
 

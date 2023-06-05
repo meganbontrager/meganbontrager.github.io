@@ -7,8 +7,7 @@ permalink: /join/
 <!--Maybe omit genomics thing.
 Move philosopy stuff to about me.
 Add links for UG/Grad fellowships.
-Research page: navigation menu.
-Request transcripts?-->
+Research page: navigation menu.-->
 
 
 <div class="row">
@@ -22,7 +21,10 @@ Request transcripts?-->
 <br>
 
 
-If you are interested in joining the lab, please check out the information below and then get in touch via email (m.bontrager [at] utoronto [dot] ca).
+If you are interested in joining the lab, please read the information below and then get in touch via email (m.bontrager [at] utoronto [dot] ca). Prospective grad students and postdocs: please include an explanation of why my group is a good fit for your research interests (I am unlikely to reply to emails that don't address this). 
+<br>
+
+**Note: My lab is currently near capacity, and I am unlikely to add graduate students to the group in 2024. Exceptions may be made for students with extensive previous experience with field work in plant ecology/evolution (e.g., transplant experiments or environmental manipulations in plant populations) who are interested in applying this experience to studying geographic range limits, and for those who I have encouraged to apply in previous recruitment seasons.**
 <br>
 
 Work in the lab focuses on drivers of local adaptation and geographic range limits, in western North American systems as well as systems local to Toronto (TBD!). The lab is set up for field, greenhouse, and growth chamber experiments. These approaches can be complemented with data synthesis and genomic tools (in collaboration with the strong plant genomics groups here at U of T).
@@ -34,9 +36,9 @@ Our group values diversity and community. We work to actively create an environm
 
 ### **Prospective undergrads:**
 
-Hands-on undergraduate work in the lab primarily occurs through work-study positions and credit-based opportunities (e.g., ROP, REP). These opportunities will be advertised on CLNx. The next opportunity is likely to be summer 2023 work-study positions. I am also happy to hear from students interested in conducting independent study projects (e.g., EEB397, EEB497, EEB498). My group may also include students as volunteers on an occasional basis.
+Hands-on undergraduate work in the lab primarily occurs through work-study positions, credit-based opportunities (e.g., ROP, REP, EEB397, EEB497, EEB498), and summer research fellowships (e.g., USRAs). Work-study opportunities will be advertised on CLNx. The next opportunity will be fall-winter 2024 work-study positions. 
 
-If you are interested in joining the group as an undergraduate, please contact me by email with brief responses to the following prompts in addition to a resume and a transcript (or list of courses completed to-date).
+If you are interested in joining the group as an undergraduate, please contact me by email with brief responses to the following prompts in addition to a resume and an unofficial transcript.
 
 1. Please briefly describe your most relevant experience (course experience, research experience, work experience, etc). Note that this can be broad (e.g., organizational skills learned in a non-research job, favorite class activities). You are welcome to get in touch regardless of whether you have previous experience with academic research.
 2. Why are you interested in research and in this lab?
@@ -55,7 +57,7 @@ If you're interested in working with my group, please get in touch via email bef
 
 1. Please briefly describe your most relevant experience (research experience, work experience, upper level course experience, etc).
 2. Why do you want to pursue graduate research and what are your career ideas beyond graduate school?
-3. What research directions do you find interesting and what types of projects appeal to you?
+3. What research directions do you find interesting and what types of projects appeal to you? Why do you want to pursue that work in my lab?
 4. What skills would you like to learn during your graduate work?
 
 You can find information about applying [here](https://eeb.utoronto.ca/education/graduate/graduate-admissions/). Note that applications for the MSc program are only open to domestic students, while the PhD program is open to both domestic and international students. I strongly encourage all applicants to apply for fellowships for which they are eligible, including the NSERC CGS-M (domestic students)
