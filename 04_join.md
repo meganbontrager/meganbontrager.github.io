@@ -24,9 +24,6 @@ Research page: navigation menu.-->
 If you are interested in joining the lab, please read the information below and then get in touch via email (m.bontrager [at] utoronto [dot] ca). Prospective grad students and postdocs: please include an explanation of why my group is a good fit for your research interests (I am unlikely to reply to emails that don't address this). 
 <br>
 
-**Note: My lab is currently near capacity, and I am unlikely to add graduate students to the group in 2024. Exceptions may be made for students with extensive previous experience with field work in plant ecology/evolution (e.g., transplant experiments or environmental manipulations in plant populations) who are interested in applying this experience to studying geographic range limits, and for those who I have encouraged to apply in previous recruitment seasons.**
-<br>
-
 Work in the lab focuses on drivers of local adaptation and geographic range limits, in western North American systems as well as systems local to Toronto (TBD!). The lab is set up for field, greenhouse, and growth chamber experiments. These approaches can be complemented with data synthesis and genomic tools (in collaboration with the strong plant genomics groups here at U of T).
 <br>
 
@@ -36,7 +33,9 @@ Our group values diversity and community. We work to actively create an environm
 
 ### **Prospective undergrads:**
 
-Hands-on undergraduate work in the lab primarily occurs through work-study positions, credit-based opportunities (e.g., ROP, REP, EEB397, EEB497, EEB498), and summer research fellowships (e.g., USRAs). Work-study opportunities will be advertised on CLNx. The next opportunity will be fall-winter 2024 work-study positions. 
+**Note: I will be on maternity leave October 2023-April 2024 and growth of the lab will be limited during that time. If you email me and don't hear back, please feel free to apply to summer work-study positions when they are posted and/or reach out again in May 2024.**
+
+Hands-on undergraduate work in the lab primarily occurs through work-study positions, credit-based opportunities (e.g., ROP, REP, EEB397, EEB497, EEB498), and summer research fellowships (e.g., USRAs). Work-study opportunities will be advertised on CLNx. The next opportunity will be summer 2024 work-study positions. 
 
 If you are interested in joining the group as an undergraduate, please contact me by email with brief responses to the following prompts in addition to a resume and an unofficial transcript.
 
@@ -48,6 +47,9 @@ If you are interested in joining the group as an undergraduate, please contact m
 
 
 ### **Prospective grad students:**
+
+**Note: My lab is currently near capacity, and I am unlikely to add graduate students to the group in 2024. Exceptions may be made for students with extensive previous experience with field work in plant ecology/evolution (e.g., transplant experiments or environmental manipulations in plant populations) who are interested in applying this experience to studying geographic range limits, and for those who I have encouraged to apply in previous recruitment seasons.**
+<br>
 
 My goal as a supervisor is to help students formalize their interests into hypothesis-driven research projects, to aid students in progressing towards the next step of their career, and to support students as they build the skill sets that their graduate research projects and future careers require. Students can work in lab systems or branch out, and can work on projects I have come up with or those of their own design (or most likely something in between).
 

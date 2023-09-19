@@ -11,7 +11,7 @@ permalink: /people/
    <img src="/assets/megan.jpg" style="width:32%; padding: 0px 10px 0px 0px;" align="left">
  </div>
 
-Megan (she/her) is currently an Assistant Professor in the Ecology and Evolutionary Biology Department at the University of Toronto. Previously, she was a postdoctoral researcher in the Evolution and Ecology Department at UC Davis, where she worked with [Jenny Gremer](https://gremerlab.wordpress.com/), [Julin Maloof](http://malooflab.phytonetworks.org/), [Annie Schmitt](https://plantgxe.ucdavis.edu/), and [Sharon Strauss](https://sharonstrauss.wordpress.com/). She did her PhD research in the Biodiversity Research Centre and Botany Department at the University of British Columbia with [Amy Angert](http://angert.botany.ubc.ca/home.html). This work included field experiments, population genetics, herbarium studies, and quantitative syntheses of the literature. She did her undergraduate work at the UC Santa Cruz, where she worked in the [Parker](http://parker.eeb.ucsc.edu/) and [Kay](https://kay.eeb.ucsc.edu/) labs, after transferring from Cabrillo Community College. In her spare time she likes to explore parks with her 1-year old, try new recipes, and hang out with her two weird cats.
+Megan (she/her) is currently an Assistant Professor in the Ecology and Evolutionary Biology Department at the University of Toronto. Previously, she was a postdoctoral researcher in the Evolution and Ecology Department at UC Davis, where she worked with [Jenny Gremer](https://gremerlab.wordpress.com/), [Julin Maloof](http://malooflab.phytonetworks.org/), [Annie Schmitt](https://plantgxe.ucdavis.edu/), and [Sharon Strauss](https://sharonstrauss.wordpress.com/). She did her PhD research in the Biodiversity Research Centre and Botany Department at the University of British Columbia with [Amy Angert](http://angert.botany.ubc.ca/home.html). This work included field experiments, population genetics, herbarium studies, and quantitative syntheses of the literature. She did her undergraduate work at the UC Santa Cruz, where she worked in the [Parker](http://parker.eeb.ucsc.edu/) and [Kay](https://kay.eeb.ucsc.edu/) labs, after transferring from Cabrillo Community College. In her spare time she likes to explore parks with her 2-year old, try new recipes, and hang out with her two weird cats.
 
 [Megan's CV on github.](https://github.com/meganbontrager/CV/blob/master/Bontrager_CV.pdf)
 
@@ -43,20 +43,20 @@ Katie (they/she) is a PhD student co-supervised by John Stinchcombe and is a rec
 
 ## Undergrads
 
+Ellie Hector: work-study '22-23, EEB498 independent project student currently
 
-Heather Chong (EEB 498 and work-study summer '23)
+Tara McGruder: work-study summer '23, work-study and EEB397 independent project currently
 
-Maura McGregor (CGCS USRA summer '23--Stinchcombe lab) 
+Heather Chong: EEB498 independent project summer '23, work-study summer '23, casual research assistant currently
 
-Noah Hake (NSERC USRA summer '23)
+Jo Fletcher: work-study '22-23, work-study currently
 
-Stephanie Leung (work-study summer '23)
+Stephanie Leung: work-study summer '23, work-study currently
 
-Tara McGruder (work-study summer '23)
+Maura McGregor: CGCS USRA summer '23 (joint with the Stinchcombe lab), work-study currently
 
-Ellie Hector (work-study '22-23)
+Noah Hake: NSERC USRA summer '23
 
-Jo Fletcher (work-study '22-23)
 
 
 
