@@ -36,7 +36,29 @@ Louisa (she/her) is a PhD student and current [W. Thomas Smith Scholar](https://
   <img src="/assets/katie.jpg" style="width:32%; padding: 0px 10px 0px 0px;" align="left">
 </div>
 
-Katie (they/she) is a PhD student co-supervised by John Stinchcombe and is a recipient of the Faculty of Arts & Science Top Doctoral Fellowship. They completed their undergrad at Queen’s University studying evolutionary biology and is interested in the forces underlying phenotypic variation. Katie braves the streets of Toronto, biking to campus each day, and is currently making their way through a decade-old origami calendar.
+Katie (they/she) is a PhD student co-supervised by John Stinchcombe and is a recipient of the Faculty of Arts & Science Top Doctoral Fellowship. They completed their undergrad at Queen’s University studying evolutionary biology and are interested in the forces underlying phenotypic variation. Katie braves the streets of Toronto, biking to campus each day, and they are currently making their way through a decade-old origami calendar.
+
+<br style="clear:both" />
+
+
+### Juniper Malloff
+
+<div class="image">
+  <img src="/assets/juniper_SFTule.jpg" style="width:32%; padding: 0px 10px 0px 0px;" align="left">
+</div>
+
+Juniper (they/them) is a PhD student in the Bontrager lab currently supported by the Faculty of Arts & Science Top Doctoral Fellowship. They completed their undergrad at the University of British Columbia where they explored the field of chemical ecology, studying elevational patterns of insect herbivore communities and chemical plant defense in *Lupinus latifolius*. Juniper is broadly interested in plant adaptation at range edges, chemically-mediated interactions between plants and insects, and the bizarre life histories of perennials. When not on campus, Juniper can be found hauling their bike down questionable gravel trails, baking elaborate desserts, or swing dancing the night away.
+
+<br style="clear:both" />
+
+
+### Erin McHugh
+
+<div class="image">
+  <img src="/assets/erin.png" style="width:32%; padding: 0px 10px 0px 0px;" align="left">
+</div>
+
+Erin is a PhD student co-supervised by Megan Frederickson. She completed her undergraduate degree at the University of British Columbia, where she worked on projects related to the eco-evolutionary dynamics of range expansion, the role of competition in invasion speed, and life-history under changing climates. She is broadly interested in the biogeography of species interactions, and how species interactions may constrain or expand species ranges. In her spare time, she enjoys rock climbing, baking, and exploring Toronto.
 
 <br style="clear:both" />
 
