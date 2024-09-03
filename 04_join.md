@@ -33,9 +33,7 @@ Our group values diversity and community. We work to actively create an environm
 
 ### **Prospective undergrads:**
 
-**Note: I will be on maternity leave October 2023-April 2024 and growth of the lab will be limited during that time. If you email me and don't hear back, please feel free to apply to summer work-study positions when they are posted and/or reach out again in May 2024.**
-
-Hands-on undergraduate work in the lab primarily occurs through work-study positions, credit-based opportunities (e.g., ROP, REP, EEB397, EEB497, EEB498), and summer research fellowships (e.g., USRAs). Work-study opportunities will be advertised on CLNx. The next opportunity will be summer 2024 work-study positions. 
+Hands-on undergraduate work in the lab primarily occurs through work-study positions, credit-based opportunities (e.g., ROP, REP, EEB397, EEB497, EEB498), and summer research fellowships (e.g., USRAs). Work-study opportunities will be advertised on CLNx. 
 
 If you are interested in joining the group as an undergraduate, please contact me by email with brief responses to the following prompts in addition to a resume and an unofficial transcript.
 
@@ -48,7 +46,7 @@ If you are interested in joining the group as an undergraduate, please contact m
 
 ### **Prospective grad students:**
 
-**Note: My lab is currently near capacity, and I am unlikely to add graduate students to the group in 2024. Exceptions may be made for students with extensive previous experience with field work in plant ecology/evolution (e.g., transplant experiments or environmental manipulations in plant populations) who are interested in applying this experience to studying geographic range limits, and for those who I have encouraged to apply in previous recruitment seasons.**
+**Note: My lab is currently near capacity. I am only likely to encourage applications from students with extensive previous experience with field work in plant ecology/evolution (e.g., transplant experiments or environmental manipulations in plant populations) who are interested in applying this experience to studying geographic range limits.**
 <br>
 
 My goal as a supervisor is to help students formalize their interests into hypothesis-driven research projects, to aid students in progressing towards the next step of their career, and to support students as they build the skill sets that their graduate research projects and future careers require. Students can work in lab systems or branch out, and can work on projects I have come up with or those of their own design (or most likely something in between).
@@ -78,7 +76,7 @@ While not specific to U of T and not mandatory reading for prospective students,
 
 My goal is to support postdocs (intellectually, logistically, materially, and in their career development) as they pursue the scientific questions that they are most excited about and continue to develop independent research programs. If you're interested in working with my group as a postdoc, please get in touch with a brief description of your research to-date, a brief description of your future research interests (specifically why you would like to pursue them in my lab), and a CV. If our interests seem like a good match, we can meet to discuss funding opportunities. I am not currently hiring postdocs from my grant funds, however there are a number of [fellowships that can support postdocs at U of T](https://www.sgs.utoronto.ca/awards-category/postdoctoral-awards/); some are listed below.
 
-- [EEB Postdoctoral Fellowship](https://eeb.utoronto.ca/wp-content/uploads/2022/02/CUPE3902-U5-2022-EEB-Postdoc-Job-Posting.pdf): This is a departmental position, with the potential to collaborate across labs and an emphasis on facilitating interactions within the department (the 2023 call will likely go out soon).
+- EEB Postdoctoral Fellowship: This is a departmental position, with the potential to collaborate across labs and an emphasis on facilitating interactions within the department. Calls for applications happen in fall/winter most years.
 
 - [Banting Postdoctoral fellowships](https://www.sgs.utoronto.ca/awards/banting-postdoctoral-fellowships-program/): This national competition is open to both domestic and international applicants.
 
