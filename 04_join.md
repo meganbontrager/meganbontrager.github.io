@@ -24,7 +24,7 @@ Research page: navigation menu.-->
 If you are interested in joining the lab, please read the information below and then get in touch via email (m.bontrager [at] utoronto [dot] ca). Prospective grad students and postdocs: please include an explanation of why my group is a good fit for your research interests (I am unlikely to reply to emails that don't address this). 
 <br>
 
-Work in the lab focuses on drivers of local adaptation and geographic range limits, in western North American systems as well as systems local to Toronto (TBD!). The lab is set up for field, greenhouse, and growth chamber experiments. These approaches can be complemented with data synthesis and genomic tools (in collaboration with the strong plant genomics groups here at U of T).
+Work in the lab focuses on drivers of local adaptation and geographic range limits, in western North American systems as well as systems local to Toronto. The lab is set up for field, greenhouse, and growth chamber experiments. These approaches can be complemented with data synthesis and genomic tools (in collaboration with the strong plant genomics groups here at U of T).
 <br>
 
 Our group values diversity and community. We work to actively create an environment where everyone feels supported to be curious, learn new skills, and do projects that they are excited about. I am very happy to hear from students and researchers who are members of groups that have not historically been supported/included in academic science.
@@ -46,7 +46,7 @@ If you are interested in joining the group as an undergraduate, please contact m
 
 ### **Prospective grad students:**
 
-**Note: My lab is currently near capacity. I am only likely to encourage applications from students with extensive previous experience with field work in plant ecology/evolution (e.g., transplant experiments or environmental manipulations in plant populations) who are interested in applying this experience to studying geographic range limits.**
+**Note: My lab is currently near capacity. I am only likely to encourage applications from students with extensive previous experience with field work in plant ecology/evolution (e.g., transplant experiments or environmental manipulations in plant populations) who are interested in applying this experience to studying geographic range limits. You are welcome to email me anytime, but I typically begin considering prospective students in fall for our winter application deadline.**
 <br>
 
 My goal as a supervisor is to help students formalize their interests into hypothesis-driven research projects, to aid students in progressing towards the next step of their career, and to support students as they build the skill sets that their graduate research projects and future careers require. Students can work in lab systems or branch out, and can work on projects I have come up with or those of their own design (or most likely something in between).
@@ -60,7 +60,7 @@ If you're interested in working with my group, please get in touch via email bef
 3. What research directions do you find interesting and what types of projects appeal to you? Why do you want to pursue that work in my lab?
 4. What skills would you like to learn during your graduate work?
 
-You can find information about applying [here](https://eeb.utoronto.ca/education/graduate/graduate-admissions/). Note that applications for the MSc program are only open to domestic students, while the PhD program is open to both domestic and international students. I strongly encourage all applicants to apply for fellowships for which they are eligible, including the NSERC CGS-M (domestic students)
+You can find information about applying [here](https://eeb.utoronto.ca/education/graduate/graduate-admissions/). Note that applications for the MSc program are only open to domestic students, while the PhD program is open to both domestic and international students. I strongly encourage all applicants to apply for fellowships for which they are eligible, including the NSERC CGS-M (domestic students).
 
 While not specific to U of T and not mandatory reading for prospective students, here are a few resources for applying to grad school in ecology and evolution that may be helpful as you prepare for and navigate the process:
 
@@ -78,9 +78,7 @@ My goal is to support postdocs (intellectually, logistically, materially, and in
 
 - EEB Postdoctoral Fellowship: This is a departmental position, with the potential to collaborate across labs and an emphasis on facilitating interactions within the department. Calls for applications happen in fall/winter most years.
 
-- [Banting Postdoctoral fellowships](https://www.sgs.utoronto.ca/awards/banting-postdoctoral-fellowships-program/): This national competition is open to both domestic and international applicants.
-
-- [NSERC postdoctoral fellowships](https://www.nserc-crsng.gc.ca/Students-Etudiants/PD-NP/PDF-BP_eng.asp): This national competition is open to Canadian citizens, permanent residents, and protected persons that are within 2 years of completing their PhD.
+- [CPRA postdoctoral fellowships](https://nserc-crsng.canada.ca/en/funding-opportunity/canada-postdoctoral-research-award-program): This national competition is open to domestic and international applicants that are within 3 years of completing their PhD.
 
 - [Liber Ero fellowships](http://liberero.ca/): These fellowships are for postdocs whose research has an applied conservation focus in Canadian systems. Liber Ero fellows are co-mentored by conservation practitioners. This competition is open to both domestic and international researchers.
 

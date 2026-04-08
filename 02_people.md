@@ -52,26 +52,46 @@ Juniper (they/them) is a PhD student in the Bontrager lab currently supported by
 <br style="clear:both" />
 
 
+## Alumni
+
 ### Erin McHugh
 
 <div class="image">
   <img src="/assets/erin.png" style="width:32%; padding: 0px 10px 0px 0px;" align="left">
 </div>
 
-Erin is a PhD student co-supervised by Megan Frederickson. She completed her undergraduate degree at the University of British Columbia, where she worked on projects related to the eco-evolutionary dynamics of range expansion, the role of competition in invasion speed, and life-history under changing climates. She is broadly interested in the biogeography of species interactions, and how species interactions may constrain or expand species ranges. In her spare time, she enjoys rock climbing, baking, and exploring Toronto.
+Erin completed her MSc in 2025, co-supervised by Megan Frederickson. Prior, she completed her undergraduate degree at the University of British Columbia, where she worked on projects related to the eco-evolutionary dynamics of range expansion, the role of competition in invasion speed, and life-history under changing climates. She is broadly interested in the biogeography of species interactions, and how species interactions may constrain or expand species ranges. Her thesis work focused on the effects of mutualism on the niche breadths of legume species.
 
 <br style="clear:both" />
 
 
 ## Undergrads
 
-Mia Bantas: EEB498 student '24-25
+Amanda Liu: EEB398 summer '25, NSERC USRA summer '26
 
-Yunjung Jo: EEB397 student '24-25
+Nanor Pontigian: EEB498 independent project '25-26
 
-Julia Cruz: work-study summer '24, EEB397 independent project '24-25
+Lauren DeLoyde: EEB498 independent project '25-26
 
-Stephanie Leung: work-study summer '23, work-study '23-24, work-study summer '24, EEB397 student summer '24
+Lorien Simoes de Paiva: work-study '24-'25, EEB498 independent project '25-26
+
+Vanessa Lu: CGCS USRA summer '25, EEB498 independent project '25-26
+
+Leena Mohamed Wahab: Northrup Frye scholar summer '25, work-study '25-26
+
+Julia Cruz: work-study summer '24, work-study '24-25, EEB397 independent project '24-25, work-study '25-26
+
+Hillary Nelson (UBC): NSERC USRA summer '25
+
+Aleksandra Lukanovska: work-study summer '25
+
+Mia Bantas: EEB498 independent project '24-25
+
+Yunjung Jo: EEB397 independent project '24-25
+
+Ellie Balatovsky: work-study '24-25
+
+Stephanie Leung: work-study summer '23, work-study '23-24, work-study summer '24, work-study '24-25, EEB397 independent project summer '24
 
 Osmond Hui: work-study summer '24
 
@@ -85,7 +105,7 @@ Jo Fletcher: work-study '22-23, work-study '23-24, field tech summer '24
 
 Maura McGregor: CGCS USRA summer '23 (joint with the Stinchcombe lab), work-study '23-24
 
-Noah Hake: NSERC USRA summer '23, EEB497 student winter '24
+Noah Hake: NSERC USRA summer '23, EEB497 independent project winter '24
 
 Heather Chong: EEB498 independent project summer '23, work-study summer '23, research assistant fall '23
 

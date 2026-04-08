@@ -25,3 +25,7 @@ end
 
 gem "webrick"
 
+
+gem "csv", "~> 3.3"
+
+gem "bigdecimal", "~> 4.1"
