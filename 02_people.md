@@ -52,19 +52,6 @@ Juniper (they/them) is a PhD student in the Bontrager lab currently supported by
 <br style="clear:both" />
 
 
-## Alumni
-
-### Erin McHugh
-
-<div class="image">
-  <img src="/assets/erin.png" style="width:32%; padding: 0px 10px 0px 0px;" align="left">
-</div>
-
-Erin completed her MSc in 2025, co-supervised by Megan Frederickson. Prior, she completed her undergraduate degree at the University of British Columbia, where she worked on projects related to the eco-evolutionary dynamics of range expansion, the role of competition in invasion speed, and life-history under changing climates. She is broadly interested in the biogeography of species interactions, and how species interactions may constrain or expand species ranges. Her thesis work focused on the effects of mutualism on the niche breadths of legume species.
-
-<br style="clear:both" />
-
-
 ## Undergrads
 
 Amanda Liu: EEB398 summer '25, NSERC USRA summer '26
@@ -80,6 +67,23 @@ Vanessa Lu: CGCS USRA summer '25, EEB498 independent project '25-26
 Leena Mohamed Wahab: Northrup Frye scholar summer '25, work-study '25-26
 
 Julia Cruz: work-study summer '24, work-study '24-25, EEB397 independent project '24-25, work-study '25-26
+
+
+
+## Alumni
+
+### Erin McHugh
+
+<div class="image">
+  <img src="/assets/erin.png" style="width:32%; padding: 0px 10px 0px 0px;" align="left">
+</div>
+
+Erin completed her MSc in 2025, co-supervised by Megan Frederickson. Prior, she completed her undergraduate degree at the University of British Columbia, where she worked on projects related to the eco-evolutionary dynamics of range expansion, the role of competition in invasion speed, and life-history under changing climates. She is broadly interested in the biogeography of species interactions, and how species interactions may constrain or expand species ranges. Her thesis work focused on the effects of mutualism on the niche breadths of legume species.
+
+<br style="clear:both" />
+
+
+### Undergraduate alumni
 
 Hillary Nelson (UBC): NSERC USRA summer '25
 
